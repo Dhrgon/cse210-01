@@ -1,5 +1,6 @@
 ### Author: Chris Bitsch
 ### Assignement: Week 2 Solo Submission: Tic-Tac-Toe
+### Adding a new comment so I have an update to push using cmd prompt
 
 def main():
     # Print the starting board, and initialize starting variables
