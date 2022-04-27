@@ -1,2 +1,2 @@
 # cse210-01
-Repository for assignment
+Repository for Tic-Tac-Toe assignment
